@@ -19,3 +19,5 @@ Day 9-17: Started with week 2 of lectures of NLP course and completed week 2
 Day 18 - 23: Watched all lectures of week 3 of NLP course and started assignment
 
 Day 24: Completed week 3 assignment
+
+Day 25 - Day 31: Compeleted 
