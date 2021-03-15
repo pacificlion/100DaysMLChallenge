@@ -2,7 +2,7 @@
 
 I have started with the 100 Days of ML Code Challenge. The aim is to comprehensively revise essential statistics, machine learning algorithms, state of art models, and learn to develop end-to-end products using machine learning and deep learning.
 
-![100 Day ML Challenge](https://github.com/pacificlion/100DaysMLChallenge/blob/main/challenge.jpg)
+![100 Day ML Challenge](https://raw.githubusercontent.com/pacificlion/100DaysMLChallenge/main/challenge.jpg)
 
 
 Start date: 12 Feb 2021
