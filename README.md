@@ -4,6 +4,9 @@ I have started with the 100 Days of ML Code Challenge. The aim is to comprehensi
 
 ![100 Day ML Challenge](https://github.com/pacificlion/100DaysMLChallenge/blob/main/challenge.jpg)
 
+
+Start date: 12 Feb 2021
+
 Day 1: Started reading [AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) paper and took [notes](https://github.com/pacificlion/100DaysMLChallenge/blob/main/Day1/alexnet_tensorflow.ipynb)
 
 Day 2 to Day 5: Read Alexnet paper, Implemented AlexNet architecture using CIFAR 10 data set [notebook](https://github.com/pacificlion/100DaysMLChallenge/blob/main/Day4/alexnet_tensorflow.ipynb)
@@ -20,4 +23,4 @@ Day 18 - 23: Watched all lectures of week 3 of NLP course and started assignment
 
 Day 24: Completed week 3 assignment
 
-Day 25 - Day 31: Compeleted 
+Day 25 - Day 30: Watching lectures of week 4 assignment
