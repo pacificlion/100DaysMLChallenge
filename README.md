@@ -28,5 +28,4 @@ Day 25 - Day 30: Watching lectures of week 4 assignment
 Day 31 : Last assignment of week 4
 
 Day 32: Continued with last assignment of week 4, Got more interested in Locality Sensitive Hashing
-        
-        - [ ] Reference: [article](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
+- Reference: [article](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
