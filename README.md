@@ -8,7 +8,7 @@ I have started with the 100 Days of ML Code Challenge. The aim is to comprehensi
 Start date: 27 Apr 2021
 | #        | Date  |  Day | Completed   | Planned   | Blocker   |
 | :------------- | :----------: | -----------: | -----------: |-----------: |-----------: |
-| 1|27 Apr 2021|Tue| <ul> <li>Downloaded repo [ageron/handson-ml2](https://github.com/ageron/handson-ml2). </li><li> Set up docker</li></ul>|<ReplaceME>|<ReplaceME>|
+| 1|27 Apr 2021|Tue| <ul> <li>Downloaded repo [ageron/handson-ml2](https://github.com/ageron/handson-ml2). </li><li> Set up docker</li></ul>|<ul><li>Chapter 1 of [ageron/handson-ml2](https://github.com/ageron/handson-ml2)</li></ul>|<ReplaceME>|
 | 2|28 Apr 2021|Wed|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 3|29 Apr 2021|Thu|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 4|30 Apr2021|Fri|<ReplaceME>|<ReplaceME>|<ReplaceME>|
