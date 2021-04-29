@@ -6,7 +6,7 @@ Start date: 27 Apr 2021
 | #        | Date  |  Day | Completed   | Planned   | Blocker   |
 | :-------------: | :----------: | :-----------: | :----------- |----------- |----------- |
 | 1|27 Apr 2021|Tue| Downloaded repo [pacificlion/handson-ml2](https://github.com/pacificlion/handson-ml2). <br/> Set up docker|Chapter 1 of [pacificlion/handson-ml2](https://github.com/pacificlion/handson-ml2)|<ReplaceME>|
-| 2|28 Apr 2021|Wed|Setup git local; chapter 1 notebook pushed<br/> quiz 9/19 answered|Complete quiz of chapter 1 <br/> start chapter 2|<ReplaceME>|
+| 2|28 Apr 2021|Wed|Setup git local; [chapter 1 notebook](https://github.com/pacificlion/handson-ml2/blob/master/A01_the_machine_learning_landscape.ipynb) pushed<br/> quiz 9/19 answered|Complete quiz of chapter 1 <br/> start chapter 2|<ReplaceME>|
 | 3|29 Apr 2021|Thu|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 4|30 Apr2021|Fri|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 5|1 May 2021|Sat|<ReplaceME>|<ReplaceME>|<ReplaceME>|
