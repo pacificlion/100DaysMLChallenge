@@ -1,4 +1,4 @@
-![100 Day ML Challenge](https://raw.githubusercontent.com/pacificlion/100DaysMLChallenge/main/challenge-removebg-preview.png)
+![100 Day ML Challenge](https://raw.githubusercontent.com/pacificlion/100DaysMLChallenge/main/challenge.jpg)
 
 
 Start date: 27 Apr 2021
