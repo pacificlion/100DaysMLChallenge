@@ -1,5 +1,7 @@
 ![100 Day ML Challenge](https://raw.githubusercontent.com/pacificlion/100DaysMLChallenge/main/challenge.jpg)
 
+My previous unsuccessful challenge - after 32 days: [12 Feb 2021 100DaysMLChallenge](README-v1.md) 
+
 
 Start date: 27 Apr 2021
 
