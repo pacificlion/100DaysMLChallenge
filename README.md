@@ -13,7 +13,7 @@ Start date: 27 Apr 2021
 | 4|30 Apr2021|Fri|Pushed notebook ch2|chapter 2 eda|<ReplaceME>|<ReplaceME>|
 | 5|1 May 2021|Sat|Train Test split & visualisation - scatter plot| Correlation & transformers|<ReplaceME>|<ReplaceME>|
 | 6|2 May 2021|Sun| Correlation & Imputers [Notebook](https://github.com/pacificlion/handson-ml2/blob/master/A02_end_to_end_machine_learning_project.ipynb)|One Hot Encoding|<ReplaceME>|<ReplaceME>|
-| 7|3 May 2021|Mon|One Hot encoding & Training Linear Reg (underfitting)|Decision Tree & grid search|<ReplaceME>|<ReplaceME>|
+| 7|3 May 2021|Mon|One Hot encoding & Training Linear Reg (underfitting)|Decision Tree & grid search|<ReplaceME>|Had read the chapter 2 of first iteration earlier; was able to revise faster|
 | 8|4 May 2021|Tue|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 9|5 May 2021|Wed|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 10|6 May 2021|Thu|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
