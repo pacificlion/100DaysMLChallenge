@@ -14,7 +14,7 @@ Start date: 27 Apr 2021
 | 5|1 May 2021|Sat|Train Test split & visualisation - scatter plot| Correlation & transformers|<ReplaceME>|<ReplaceME>|
 | 6|2 May 2021|Sun| Correlation & Imputers [Notebook](https://github.com/pacificlion/handson-ml2/blob/master/A02_end_to_end_machine_learning_project.ipynb)|One Hot Encoding|<ReplaceME>|<ReplaceME>|
 | 7|3 May 2021|Mon|One Hot encoding & Training Linear Reg (underfitting) [Notebook](https://github.com/pacificlion/handson-ml2/blob/master/A02_end_to_end_machine_learning_project.ipynb)|grid search <br/> vgg or resnet|<ReplaceME>|Had read the chapter 2 of first iteration earlier; was able to revise faster|
-| 8|4 May 2021|Tue|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
+| 8|4 May 2021|Tue|Decision Tree Regressor , VGG train, test split||Train model, chapter 2 |not much progress code wise|
 | 9|5 May 2021|Wed|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 10|6 May 2021|Thu|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
 | 11|7 May 2021|Fri|<ReplaceME>|<ReplaceME>|<ReplaceME>|<ReplaceME>|
